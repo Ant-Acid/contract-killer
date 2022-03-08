@@ -1,12 +1,4 @@
-# California Contract Killer
 
-### I really appreciate the work of Andy Clarke and Stuff & Nonsense Ltd. for crafting [the original killer contract](https://stuffandnonsense.co.uk/projects/contract-killer/).
-
-#### That said, I don't love some of the more cheeky British humor baked in, and there are minor elements of the phrasing and grammar (plus spelling) that I would never use as an American.
-
-#### This edit reflects the kind of language that feels more appropriate to me as someone who resides in the Bay Area, California. I have also included specific text to reflect the additional services that I offer. Your mileage may vary!
-
-##### Shout-out to all the homies from #100devs! I hope you find this helpful!
 
 
 # The contract
@@ -20,7 +12,7 @@ In this contract you won’t find any complicated legal terms or long passages o
 
 In short;
 
-You ([customer name]), located at [customer address] (“You”) are hiring me ([company name]) (“Me”) to:
+You ([customer name]), located at [customer address] (“You”) are hiring me (Catalin Siegling) (“Me”) to:
 
 [Design and develop a web site]
 For the estimated total price of [total] as outlined in our previous correspondence.
@@ -111,7 +103,7 @@ This contract stays in place and need not be renewed. If for some reason one par
 Although the language is simple, the intentions are serious and this contract is a legally binding document.
 
 ## The dotted line
-Signed by [company name]
+Signed by Catalin Siegling
 ……………………………………………………
 
 Signed by [customer name]
