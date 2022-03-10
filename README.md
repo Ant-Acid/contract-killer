@@ -2,7 +2,7 @@
 
 
 # The contract
-#### Between [company name]
+#### Between Catalin Siegling
 #### And [customer name]
 
 ## Summary:
@@ -89,9 +89,9 @@ You agree to pay for my services as outlined in the following payment schedule:
 [Payment details]
 [Payment schedule]
 
-I issue invoices electronically. My payment terms are [number] days from the date of invoice by Venmo or PayPal. All proposals are quoted in US dollars.
+I issue invoices electronically. My payment terms are five [5] days from the date of invoice by Venmo or PayPal. All proposals are quoted in US dollars.
 
-I reserve the right to charge interest on all overdue debts at the rate of [percentage] per month or part of a month.
+I reserve the right to charge interest on all overdue debts at the rate of 10% per month or part of a month.
 
 ## The not-so-small print
 Neither of us can transfer this contract to anyone else without the other’s permission.
